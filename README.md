@@ -1,1 +1,3 @@
-# Hello! This is my site!
+# Welcome.
+
+# I program for fun and to learn.
